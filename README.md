@@ -1,4 +1,4 @@
-# 🚀 Revolt – The #1 Edgenuity Course Tool  -> revolt.ly
+# 🚀 Revolt – The #1 Edgenuity Course Tool  -> https://revolt.ly
 
 ## 🎁 Free 12-Hour Trial Keys Available  
 
