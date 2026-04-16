@@ -1,87 +1,112 @@
-# Revolt - The #1 Edgenuity Course Tool
+# 🚀 Revolt – The #1 Edgenuity Course Tool  -> revolt.ly
 
-# 🌐 Revolt Website → [revolt.ly](https://revolt.ly)
+## 🎁 Free 12-Hour Trial Keys Available  
 
-**👉 Join the Discord Community → [discord.gg/revoltly](https://discord.gg/revoltly)**
+Not sure if Revolt is right for you? Try it first.  
+We offer **free 12-hour access keys** so you can explore every feature before making a decision.
 
+✔ Test full automation  
+✔ Try AI-powered features  
+✔ See how it works in real time  
 
+👉 Get your free key: https://discord.gg/JBcDzjr7fq
+
+---
+
+# 🌐 Website → https://revolt.ly  
+# 💬 Discord → https://discord.gg/revoltly  
 
 https://github.com/user-attachments/assets/115fbe36-18f3-4be1-a6d9-f7bd39bb982d
 
 
-## About 
+## 📌 About  
 
-Welcome to **Revolt**! This script is a Semi-AFK automation tool designed to help you complete quizzes, tests, exams, projects, essays, and much more on Edgenuity. It features smart auto-answering, customizable auto-advancement, AI-powered writing, and many quality-of-life improvements.
+Welcome to **Revolt** — a powerful semi-AFK automation tool built to streamline your Edgenuity experience.  
 
-Visit the [Revolt Website](https://revolt.ly) for the full list of features and updates.
+Revolt helps you complete quizzes, tests, assignments, and more with smart automation, AI-powered responses, and quality-of-life enhancements designed to save time and reduce repetitive work.
 
-### Features ⭐
+Explore the full feature set and updates on the website.
 
-- **Auto Advance** – Automatically moves to the next page or question with customizable delays
-- **Auto Quiz** – Handles quizzes with automatic answering and submission
-- **Auto Project** – Completes project-style activities
-- **Auto Journal** – Automatically writes journal entries using AI
-- **Auto Essay** – Generates and submits essay responses with AI humanization
-- **Auto Assignments** – Completes assignments, labs, and similar graded work
-- **Auto Instructions** – Skips and completes instruction pages, warm-ups, and summaries
-- **Skip Intros** – Automatically skips intro and outro videos/audio
-- **Custom Backgrounds** – Choose from Revolt-themed or Edgenuity backgrounds (with transparent mode)
-- **Auto Vocabulary** – Automatically completes vocabulary activities
 
-## Getting Started
+## ⭐ Features  
 
-### Installation ⬇️
+- **Auto Advance** – Automatically moves through lessons and questions with customizable timing  
+- **Auto Quiz** – Handles quizzes with automatic answering and submission  
+- **Auto Project** – Completes project-style activities  
+- **Auto Journal** – Generates journal entries using AI  
+- **Auto Essay** – Writes and submits essays with AI humanization  
+- **Auto Assignments** – Completes assignments, labs, and graded work  
+- **Auto Instructions** – Skips instruction pages, warm-ups, and summaries  
+- **Skip Intros** – Automatically skips videos and intro content  
+- **Auto Vocabulary** – Completes vocabulary activities  
+- **Custom Backgrounds** – Includes Revolt and Edgenuity themes with transparent mode  
 
-1. Purchase Revolt on the website: [Revolt Website](https://revolt.ly/)
-2. Download the script by [clicking here](https://revolt.ly/download) or going to [revolt.ly/download](https://revolt.ly/download)
-3. Add the script to your Tampermonkey dashboard by dragging and dropping (or follow the tutorial video).
-4. Navigate to edgenuity.com and enter your activation key from the invoice to open the menu.
 
-### Usage 🤖
+## ⬇️ Getting Started  
 
-- Clearing cookies or cache can resolve most issues.
-- If the script freezes on a question, simply refresh the page.
-- Revolt works on both desktop and mobile. Check the tutorial for mobile setup.
-- It is recommended to monitor the script occasionally in case of unexpected issues.
+### Installation  
 
-### Notes 
-- Join our **Discord** for the latest updates and support: [Discord Community](https://discord.gg/revoltly)
-- Report any bugs or issues on the Discord server.
+1. Purchase Revolt on the website: https://revolt.ly  
+2. Download the script: https://revolt.ly/download  
+3. Add the script to Tampermonkey (drag & drop or follow the tutorial)  
+4. Go to edgenuity.com and enter your activation key  
 
-### Videos
 
-### Main Tutorial Video
+### 🤖 Usage  
+
+- If the script freezes, refresh the page  
+- Clearing cookies/cache can resolve most issues  
+- Works on both desktop and mobile  
+- Recommended to monitor occasionally for best results  
+
+
+## 🎥 Videos  
+
+### Main Tutorial  
 <video width="100%" controls>
   <source src="https://github.com/RevoltScript/Edgenunity-Hacks-Revolt/raw/main/main.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-### EdgeX Support (New)
+### EdgeX Support (New)  
 <video width="100%" controls>
   <source src="https://github.com/RevoltScript/Edgenunity-Hacks-Revolt/raw/main/Dsiplayvideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-### Disclaimer
 
-<h3>This script is meant for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform you're using it on.</h3>
-<b>This is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
-<i><b>If you purchase this tool you take full responsibility for the outcome (if any). Academic Integrity is very important. Use of this tool can lead to disciplinary action due to academic dishonesty. Any school credits received via this tool may be invalidated. We at Revolt discourage academic dishonesty. By purchasing and using this tool, you acknowledge the risks and consequences. You have been warned ‼ ⚠</b></i>
+## ⚠️ Disclaimer  
 
-### License 🔑
+This tool is provided for educational purposes only.  
 
-- Revolt is a paid tool. Do not repurpose, resell, crack, or steal assets. Any attempt at pirating will result in a blacklist from our services.
+Use of automation tools may violate the terms of service of certain platforms and can result in disciplinary action. Any academic credit obtained through misuse may be invalidated.  
 
-## Your Privacy 💟
+By using Revolt, you acknowledge and accept all risks associated with its use. We strongly encourage responsible usage and actual learning alongside any tools.
 
-At Revolt, we value your privacy. Please review our [Privacy Policy](https://revolt.ly/privacy-policy) and [Terms of Service](https://revolt.ly/terms) before using our services.
 
-## Miscellaneous
+## 🔑 License  
 
-Revolt was created as a modern alternative for students looking for automation on Edgenuity. While shortcuts exist, we strongly encourage learning the material whenever possible — real knowledge pays off in college and beyond.
+Revolt is a paid product.  
+Do not redistribute, resell, or attempt to bypass licensing systems.  
+
+Unauthorized distribution or piracy may result in blacklisting from all services.
+
+
+## 💟 Privacy  
+
+Your privacy matters.  
+Please review our policies before use:  
+
+- https://revolt.ly/privacy-policy  
+- https://revolt.ly/terms  
+
+
+## 🧠 Final Note  
+
+Revolt is designed to make workflows easier, but real understanding will always be more valuable in the long run.  
+
+Use tools wisely — your future self will thank you.
+
 
 ---
 
-**Made with 💗 by**: [See on Discord](https://discord.gg/revoltly)
-
-Thank you for using Revolt! EdgeX Compatibility is HERE.
+**Made with 💗 by the Revolt Team**  
+👉 https://discord.gg/revoltly
