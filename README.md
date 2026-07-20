@@ -17,6 +17,8 @@ We offer **free 4-hour access keys** so you can explore every feature before mak
 https://github.com/user-attachments/assets/115fbe36-18f3-4be1-a6d9-f7bd39bb982d
 
 
+https://github.com/user-attachments/assets/b011f08b-3a25-46ce-8a0f-fe5d5c7550d8
+
 
 ## 📌 About  
 Welcome to **Revolt** — a powerful semi-AFK automation tool built to streamline your **Edgenuity** and **Edmentum** experience.  
