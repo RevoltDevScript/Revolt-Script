@@ -1,6 +1,4 @@
-
-
-# 🚀 Revolt – The #1 Edgenuity & Edmentum Course Tool  
+# 🚀 Revolt – The #1 Edgenuity, Edmentum & Subject Course Tool  
 ## 🎁 Free 4-Hour Trial Keys Available  
 Not sure if Revolt is right for you? Try it first.  
 We offer **free 4-hour access keys** so you can explore every feature before making a decision.
@@ -21,9 +19,11 @@ https://github.com/user-attachments/assets/b011f08b-3a25-46ce-8a0f-fe5d5c7550d8
 
 
 ## 📌 About  
-Welcome to **Revolt** — a powerful semi-AFK automation tool built to streamline your **Edgenuity** and **Edmentum** experience.  
-Revolt helps you complete quizzes, tests, assignments, and more with smart automation, AI-powered responses, and quality-of-life enhancements designed to save time and reduce repetitive work across both platforms.
+Welcome to **Revolt** — a powerful semi-AFK automation tool built to streamline your **Edgenuity**, **Edmentum**, and **Subject** experience.  
+Revolt helps you complete quizzes, tests, assignments, and more with smart automation, AI-powered responses, and quality-of-life enhancements designed to save time and reduce repetitive work across all three platforms.
 Explore the full feature set and updates on the website.
+
+Subject lives at [app.subject.com](https://app.subject.com) — see [revolt.ly/subject](https://revolt.ly/subject) for the full Subject guide.
 
 ## ⭐ Features  
 - **Auto Advance** – Automatically moves through lessons and questions with customizable timing  
@@ -35,14 +35,16 @@ Explore the full feature set and updates on the website.
 - **Auto Instructions** – Skips instruction pages, warm-ups, and summaries  
 - **Skip Intros** – Automatically skips videos and intro content  
 - **Auto Vocabulary** – Completes vocabulary activities  
-- **Custom Backgrounds** – Includes Revolt, Edgenuity, and Edmentum themes with transparent mode  
+- **Custom Backgrounds** – Includes Revolt, Edgenuity, Edmentum, and Subject themes with transparent mode  
 
 ## ⬇️ Getting Started  
 ### Installation  
 1. Purchase Revolt on the website: https://revolt.ly  
-2. Download the script: https://revolt.ly/download  
-3. Add the script to Tampermonkey (drag & drop or follow the tutorial)  
-4. Go to **edgenuity.com** or **edmentum.com** and enter your activation key  
+2. Download from https://revolt.ly/download  
+   - **Classic Edgenuity** → Tampermonkey userscript  
+   - **EdgeX, Edmentum, and Subject** → RevoltX browser extension (required)  
+3. Add the script to Tampermonkey, or install RevoltX (drag & drop or follow the tutorial)  
+4. Go to **edgenuity.com**, **edmentum.com**, or **app.subject.com** and enter your activation key  
 
 ### 🤖 Usage  
 - If the script freezes, refresh the page  
