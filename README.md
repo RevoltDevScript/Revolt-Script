@@ -1,88 +1,135 @@
-# 🚀 Revolt – The #1 Edgenuity, Edmentum & Subject Course Tool  
-## 🎁 Free 4-Hour Trial Keys Available  
-Not sure if Revolt is right for you? Try it first.  
-We offer **free 4-hour access keys** so you can explore every feature before making a decision.
-✔ Test full automation  
-✔ Try AI-powered features  
-✔ See how it works in real time  
-👉 Get your free key: https://discord.gg/JBcDzjr7fq
+# 🚀 Revolt – Edgenuity, EdgeX, Edmentum & Subject Automation
 
----
-# 🌐 Website → https://revolt.ly  
-# 💬 Discord → https://discord.gg/revoltly  
+**47 features across 4 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
 
+🌐 **Website** → https://revolt.ly · 📋 **All features** → https://revolt.ly/features · 📚 **Docs** → https://docs.revolt.ly · 💬 **Discord** → https://discord.gg/revoltly
+
+## 🎁 Free 4-Hour Trial Key
+Star this repo, post the screenshot in the freebie channel of our [Discord](https://discord.gg/revoltly) and click **Verify** to get a free 4-hour key (once per Discord account; the account must be at least 3 days old).
 
 https://github.com/user-attachments/assets/115fbe36-18f3-4be1-a6d9-f7bd39bb982d
 
-
 https://github.com/user-attachments/assets/b011f08b-3a25-46ce-8a0f-fe5d5c7550d8
 
+## 🧭 Platforms
 
-## 📌 About  
-Welcome to **Revolt** — a powerful semi-AFK automation tool built to streamline your **Edgenuity**, **Edmentum**, and **Subject** experience.  
-Revolt helps you complete quizzes, tests, assignments, and more with smart automation, AI-powered responses, and quality-of-life enhancements designed to save time and reduce repetitive work across all three platforms.
-Explore the full feature set and updates on the website.
+| Platform | Supported |
+|---|---|
+| **Edgenuity** (classic) | ✅ Full feature set |
+| **EdgeX** (incl. the Nova player) | ✅ |
+| **Edmentum** (Courseware & tutorials) | ✅ |
+| **Subject** (app.subject.com, incl. Engage activities) | ✅ |
 
-Subject lives at [app.subject.com](https://app.subject.com) — see [revolt.ly/subject](https://revolt.ly/subject) for the full Subject guide.
+One product, one key, all four platforms. Platform guides: [Edgenuity](https://revolt.ly/edgenuity) · [EdgeX](https://revolt.ly/edgex) · [Edmentum](https://revolt.ly/edmentum) · [Subject](https://revolt.ly/subject)
 
-## ⭐ Features  
-- **Auto Advance** – Automatically moves through lessons and questions with customizable timing  
-- **Auto Quiz** – Handles quizzes with automatic answering and submission  
-- **Auto Project** – Completes project-style activities  
-- **Auto Journal** – Generates journal entries using AI  
-- **Auto Essay** – Writes and submits essays with AI humanization  
-- **Auto Assignments** – Completes assignments, labs, and graded work  
-- **Auto Instructions** – Skips instruction pages, warm-ups, and summaries  
-- **Skip Intros** – Automatically skips videos and intro content  
-- **Auto Vocabulary** – Completes vocabulary activities  
-- **Custom Backgrounds** – Includes Revolt, Edgenuity, Edmentum, and Subject themes with transparent mode  
+## ⭐ Features
 
-## ⬇️ Getting Started  
-### Installation  
-1. Purchase Revolt on the website: https://revolt.ly  
-2. Download from https://revolt.ly/download  
-   - **Classic Edgenuity** → Tampermonkey userscript  
-   - **EdgeX, Edmentum, and Subject** → RevoltX browser extension (required)  
-3. Add the script to Tampermonkey, or install RevoltX (drag & drop or follow the tutorial)  
-4. Go to **edgenuity.com**, **edmentum.com**, or **app.subject.com** and enter your activation key  
+### ⚙️ Automation
+- [x] **Auto Advance** – moves through lessons, videos and activities on its own
+- [x] **Auto Quiz / Auto Exam** – answers quizzes, tests and exams from our answer database, with AI fallback
+- [x] **Auto Assignment** – completes assignments, labs and graded work
+- [x] **Auto Instructions** – clears warm-ups, instruction pages and summaries
+- [x] **Auto Vocabulary** – completes vocabulary activities
+- [x] **Auto Language** – handles PowerSpeak / language activities
+- [x] **Skip Intro** – skips intro videos
+- [x] **eNotes steps** – cleared automatically while advancing
+- [x] **Auto Retry** – Subject "Review and Retake" quizzes
 
-### 🤖 Usage  
-- If the script freezes, refresh the page  
-- Clearing cookies/cache can resolve most issues  
-- Works on both desktop and mobile  
-- Recommended to monitor occasionally for best results  
+### ✍️ AI Writing
+- [x] **Auto Essay** – writes and submits essays
+- [x] **Auto Journal** – writes journal entries
+- [x] **Auto Project** – creates and submits project files
+- [x] **AI Humanizer** – rewrites AI text to read like a student wrote it
+- [x] **Rubric-aware writing** – follows the activity's directions and rubric
 
-## 🎥 Videos  
-### Main Tutorial  
+### 📱 Control & Monitoring
+- [x] **Remote Control dashboard** – watch your running tab live from your phone, tap to control it, toggle features per tab (RevoltX extension + Revolt account)
+- [x] **Discord `/revolt` commands** – check status, reload, start/stop features from Discord
+- [x] **Discord logging** – DM activity summaries with your scores, plus cloud job alerts
+- [x] **Progress bar** – see course progress at a glance
+
+### ☁️ Cloud Completion
+- [x] **Hands-free class completion** – we run the class on our servers (from $15/class)
+- [x] **Live stream** – watch the cloud session and pause/resume any time
+- [x] **Auto re-login & checkpoints** – recovers from logouts and resumes where it left off
+
+### 🛡️ Safety & Pacing
+- [x] **Configurable delays** – per-activity answer and submit delays
+- [x] **Humanized pacing** – human-like timing between answers
+- [x] **Presets** – ASAP, Light, Medium, Safe; import/export and share configs
+- [x] **Settings sync** – your config follows you across devices
+- [x] **Anti Logout** – keeps your session alive
+- [x] **Privacy Shield** – hides personal info on screen
+- [x] **Proctorio bookmarklet** – for Proctorio-locked exams
+
+### 🧰 Utilities
+- [x] **Question Unlock**
+- [x] **Duplicate Tabs** – run multiple classes at once
+- [x] **Allow Tab Out**
+- [x] **Mute Audio** & **Video Dimmer**
+- [x] **Video speed presets**
+- [x] **Keyboard shortcuts**
+- [x] **Themes & custom backgrounds** – Revolt, Edgenuity, Edmentum and Subject themes, transparent mode
+
+Full list with platform details → **https://revolt.ly/features**
+
+## 💳 Pricing
+
+| Plan | Price |
+|---|---|
+| 1 Day key | $2.50 |
+| 1 Week key | $10 |
+| 1 Month key | $25 |
+| Subscriptions (1–5 linked accounts) | from $1.50/day |
+| Cloud class completion | from $15/class |
+
+Current prices → https://revolt.ly/pricing
+
+## ⬇️ Getting Started
+1. Get a key at https://revolt.ly/pricing (or a free trial key, above)
+2. Install from https://revolt.ly/download
+   - **RevoltX browser extension** – Chrome / Edge / Brave; recommended, and required for Edmentum and Subject
+   - **Userscript** – Tampermonkey or Violentmonkey; classic Edgenuity (EdgeX experimental)
+   - **Mobile** – classic Edgenuity on iOS via the Focus browser app, or Android via Firefox + Violentmonkey
+3. Open your course and enter your key
+
+Step-by-step guides → https://docs.revolt.ly/docs/installation
+
+### 🤖 Tips
+- If something freezes, refresh the page
+- Clearing cookies/cache fixes most issues
+- Check in occasionally — or keep an eye on it from your phone with the Remote Control dashboard
+
+## 🎥 Videos
+### Main Tutorial
 <video width="100%" controls>
   <source src="https://github.com/RevoltScript/Edgenunity-Hacks-Revolt/raw/main/main.mp4" type="video/mp4">
 </video>
 
-### EdgeX Support (New)  
+### EdgeX Support
 <video width="100%" controls>
   <source src="https://github.com/RevoltScript/Edgenunity-Hacks-Revolt/raw/main/Dsiplayvideo.mp4" type="video/mp4">
 </video>
 
-## ⚠️ Disclaimer  
-This tool is provided for educational purposes only.  
-Use of automation tools may violate the terms of service of certain platforms and can result in disciplinary action. Any academic credit obtained through misuse may be invalidated.  
+## ❓ FAQ
+**Does Revolt work on EdgeX?** Yes — including the Nova player. See https://revolt.ly/edgex.
+**Can I run more than one class?** Yes, with Duplicate Tabs, or let Cloud Completion run classes for you.
+**Can I check on it from my phone?** Yes — with the RevoltX extension and a Revolt account, the Remote Control dashboard shows your tab live, and Discord DMs you your scores.
+**Is there a free trial?** Yes, a free 4-hour key — see above.
+
+## ⚠️ Disclaimer
+This tool is provided for educational purposes only.
+Use of automation tools may violate the terms of service of certain platforms and can result in disciplinary action. Any academic credit obtained through misuse may be invalidated.
 By using Revolt, you acknowledge and accept all risks associated with its use. We strongly encourage responsible usage and actual learning alongside any tools.
 
-## 🔑 License  
-Revolt is a paid product.  
-Do not redistribute, resell, or attempt to bypass licensing systems.  
+## 🔑 License
+Revolt is a paid product.
+Do not redistribute, resell, or attempt to bypass licensing systems.
 Unauthorized distribution or piracy may result in blacklisting from all services.
 
-## 💟 Privacy  
-Your privacy matters.  
-Please review our policies before use:  
-- https://revolt.ly/privacy-policy  
-- https://revolt.ly/terms  
-
-## 🧠 Final Note  
-Revolt is designed to make workflows easier, but real understanding will always be more valuable in the long run.  
-Use tools wisely — your future self will thank you.
+## 💟 Privacy
+- https://revolt.ly/privacy-policy
+- https://revolt.ly/terms
 
 ---
-**Made with 💗 by the Revolt Team**  
-👉 https://discord.gg/revoltly
+**Made with 💗 by the Revolt Team** · https://discord.gg/revoltly
