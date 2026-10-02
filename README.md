@@ -1,6 +1,6 @@
 # 🚀 Revolt – Edgenuity, EdgeX, Edmentum & Subject Automation
 
-**49 features across 4 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, a work-hours scheduler, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
+**51 features across 4 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, Auto eNotes, a work-hours scheduler with breaks, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
 
 🌐 **Website** → https://revolt.ly · 📋 **All features** → https://revolt.ly/features · 📚 **Docs** → https://docs.revolt.ly · 💬 **Discord** → https://discord.gg/revoltly
 
@@ -32,12 +32,13 @@ One product, one key, all four platforms. Platform guides: [Edgenuity](https://r
 - [x] **Auto Vocabulary** – completes vocabulary activities
 - [x] **Auto Language** – handles PowerSpeak / language activities
 - [x] **Skip Intro** – skips intro videos
-- [x] **eNotes steps** – cleared automatically while advancing
+- [x] **eNotes steps** – cleared automatically while advancing (see Auto eNotes below for writing them)
 - [x] **Auto Retry** – Subject "Review and Retake" quizzes
 
 ### ✍️ AI Writing
 - [x] **Auto Essay** – writes and submits essays
 - [x] **Auto Journal** – writes journal entries
+- [x] **Auto eNotes** – writes short notes in your own words after each video section, from the lesson transcript and glossary, and saves them to your eNotes
 - [x] **Auto Project** – creates and submits project files
 - [x] **AI Humanizer** – rewrites AI text to read like a student wrote it
 - [x] **Rubric-aware writing** – follows the activity's directions and rubric
@@ -56,6 +57,7 @@ One product, one key, all four platforms. Platform guides: [Edgenuity](https://r
 
 ### 🛡️ Safety & Pacing
 - [x] **Work hours scheduler** – automation only runs on the days and hours you pick, then pauses and resumes by itself (Anti Logout keeps running)
+- [x] **Breaks** – random breaks between work stretches, or fixed ones like lunch
 - [x] **Configurable delays** – per-activity answer and submit delays
 - [x] **Humanized pacing** – human-like timing between answers
 - [x] **Presets** – ASAP, Light, Medium, Safe; import/export and share configs
@@ -117,6 +119,7 @@ Step-by-step guides → https://docs.revolt.ly/docs/installation
 **Does Revolt work on EdgeX?** Yes — including the Nova player. See https://revolt.ly/edgex.
 **Can I run more than one class?** Yes, with Duplicate Tabs, or let Cloud Completion run classes for you.
 **Can I check on it from my phone?** Yes — with the RevoltX extension and a Revolt account, the Remote Control dashboard shows your tab live, and Discord DMs you your scores.
+**Does it do eNotes?** Yes — turn on Auto eNotes and it writes a short note after each video section on classic Edgenuity. Docs: https://docs.revolt.ly/docs/features/auto-enotes
 **Can I limit when it runs?** Yes — set Work Hours in the extension or userscript, or when ordering Cloud Completion. Docs: https://docs.revolt.ly/docs/features/work-hours
 **Is there a free trial?** Yes, a free 4-hour key — see above.
 
