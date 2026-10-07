@@ -1,6 +1,6 @@
-# 🚀 Revolt – Edgenuity, EdgeX, Edmentum & Subject Automation
+# 🚀 Revolt – Edgenuity, EdgeX, Edmentum, Subject, Brightspace (TDA) & FLVS Automation
 
-**51 features across 4 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, Auto eNotes, a work-hours scheduler with breaks, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
+**50+ features across 6 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, Auto eNotes, a work-hours scheduler with breaks, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
 
 🌐 **Website** → https://revolt.ly · 📋 **All features** → https://revolt.ly/features · 📚 **Docs** → https://docs.revolt.ly · 💬 **Discord** → https://discord.gg/revoltly
 
@@ -19,8 +19,10 @@ https://github.com/user-attachments/assets/b011f08b-3a25-46ce-8a0f-fe5d5c7550d8
 | **EdgeX** (incl. the Nova player) | ✅ |
 | **Edmentum** (Courseware & tutorials) | ✅ |
 | **Subject** (app.subject.com, incl. Engage activities) | ✅ |
+| **Brightspace** – TRECA Digital Academy (tda.brightspace.com), incl. Möbius, Edpuzzle & Classkick | ✅ New |
+| **FLVS** – Florida Virtual School (learn.flvs.net) | ✅ New |
 
-One product, one key, all four platforms. Platform guides: [Edgenuity](https://revolt.ly/edgenuity) · [EdgeX](https://revolt.ly/edgex) · [Edmentum](https://revolt.ly/edmentum) · [Subject](https://revolt.ly/subject)
+One product, one key, all six platforms. Platform guides: [Edgenuity](https://revolt.ly/edgenuity) · [EdgeX](https://revolt.ly/edgex) · [Edmentum](https://revolt.ly/edmentum) · [Subject](https://revolt.ly/subject) · [Brightspace](https://revolt.ly/brightspace) · [FLVS](https://revolt.ly/flvs)
 
 ## ⭐ Features
 
@@ -34,6 +36,8 @@ One product, one key, all four platforms. Platform guides: [Edgenuity](https://r
 - [x] **Skip Intro** – skips intro videos
 - [x] **eNotes steps** – cleared automatically while advancing (see Auto eNotes below for writing them)
 - [x] **Auto Retry** – Subject "Review and Retake" quizzes
+- [x] **Brightspace (TDA)** – Brightspace quizzes, the Möbius, Edpuzzle and Classkick work your teachers put in TDA (including guided notebooks), and dropbox turn-ins
+- [x] **FLVS** – reads lessons, answers multiple-choice quizzes and segment exams, and fills in and submits worksheets with real pictures
 
 ### ✍️ AI Writing
 - [x] **Auto Essay** – writes and submits essays
@@ -92,7 +96,7 @@ Current prices → https://revolt.ly/pricing
 ## ⬇️ Getting Started
 1. Get a key at https://revolt.ly/pricing (or a free trial key, above)
 2. Install from https://revolt.ly/download
-   - **RevoltX browser extension** – Chrome / Edge / Brave; recommended, and required for Edmentum and Subject
+   - **RevoltX browser extension** – Chrome / Edge / Brave; recommended, and required for Edmentum, Subject, Brightspace and FLVS (version 1.0.71 or newer for Brightspace and FLVS)
    - **Userscript** – Tampermonkey or Violentmonkey; classic Edgenuity (EdgeX experimental)
    - **Mobile** – classic Edgenuity on iOS via the Focus browser app, or Android via Firefox + Violentmonkey
 3. Open your course and enter your key
@@ -119,6 +123,7 @@ Step-by-step guides → https://docs.revolt.ly/docs/installation
 **Does Revolt work on EdgeX?** Yes — including the Nova player. See https://revolt.ly/edgex.
 **Can I run more than one class?** Yes, with Duplicate Tabs, or let Cloud Completion run classes for you.
 **Can I check on it from my phone?** Yes — with the RevoltX extension and a Revolt account, the Remote Control dashboard shows your tab live, and Discord DMs you your scores.
+**Does it work on Brightspace or FLVS?** Yes, with the RevoltX extension (1.0.71 or newer). Brightspace support is for TRECA Digital Academy (tda.brightspace.com) for now; on FLVS, sign in at vsa.flvs.net and open your course. Timed quizzes, retakes, teacher passwords, discussion-based assessments and work in outside tools (Google Docs, Clever) stay with you, and Cloud Completion doesn't cover these two platforms yet. Guides: https://revolt.ly/brightspace · https://revolt.ly/flvs
 **Does it do eNotes?** Yes — turn on Auto eNotes and it writes a short note after each video section on classic Edgenuity. Docs: https://docs.revolt.ly/docs/features/auto-enotes
 **Can I limit when it runs?** Yes — set Work Hours in the extension or userscript, or when ordering Cloud Completion. Docs: https://docs.revolt.ly/docs/features/work-hours
 **Is there a free trial?** Yes, a free 4-hour key — see above.
