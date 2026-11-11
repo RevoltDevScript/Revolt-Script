@@ -2,7 +2,7 @@
 
 **50+ features across 6 platforms** — auto-advance, quizzes & exams, assignments, AI essays & projects, Auto eNotes, a work-hours scheduler with breaks, a remote control dashboard for your phone, Discord score alerts, and hands-free cloud class completion.
 
-🌐 **Website** → https://revolt.ly · 📋 **All features** → https://revolt.ly/features · 📚 **Docs** → https://docs.revolt.ly · 💬 **Discord** → https://discord.gg/revoltly
+🌐 **Website** → https://revolt.ly · 📋 **All features** → https://revolt.ly/features · 📚 **Docs** → https://docs.revolt.ly · 💬 **Discord** → https://discord.gg/revoltly · 🟢 **Is Edgenuity down?** → https://isedgenuitydown.com
 
 ## 🎁 Free 4-Hour Trial Key
 Star this repo, post the screenshot in the freebie channel of our [Discord](https://discord.gg/revoltly) and click **Verify** to get a free 4-hour key (once per Discord account; the account must be at least 3 days old).
@@ -48,7 +48,7 @@ One product, one key, all six platforms. Platform guides: [Edgenuity](https://re
 - [x] **Rubric-aware writing** – follows the activity's directions and rubric
 
 ### 📱 Control & Monitoring
-- [x] **Remote Control dashboard** – watch your running tab live from your phone, tap to control it, toggle features per tab (RevoltX extension + Revolt account)
+- [x] **Remote Control dashboard** – watch your running tab live from your phone, tap to control it, toggle features per tab (Revolt script + Revolt account)
 - [x] **Discord `/revolt` commands** – check status, reload, start/stop features from Discord
 - [x] **Discord logging** – DM activity summaries with your scores, plus cloud job alerts
 - [x] **Progress bar** – see course progress at a glance
@@ -96,8 +96,7 @@ Current prices → https://revolt.ly/pricing
 ## ⬇️ Getting Started
 1. Get a key at https://revolt.ly/pricing (or a free trial key, above)
 2. Install from https://revolt.ly/download
-   - **RevoltX browser extension** – Chrome / Edge / Brave; recommended, and required for Edmentum, Subject, Brightspace and FLVS (version 1.0.71 or newer for Brightspace and FLVS)
-   - **Userscript** – Tampermonkey or Violentmonkey; classic Edgenuity (EdgeX experimental)
+   - **The Revolt script** – install the Tampermonkey extension (Chrome, Edge, Brave or Firefox), then add the Revolt script; one script covers every platform. On school Chromebooks it works where the school allows Tampermonkey.
    - **Mobile** – classic Edgenuity on iOS via the Focus browser app, or Android via Firefox + Violentmonkey
 3. Open your course and enter your key
 
@@ -107,6 +106,11 @@ Step-by-step guides → https://docs.revolt.ly/docs/installation
 - If something freezes, refresh the page
 - Clearing cookies/cache fixes most issues
 - Check in occasionally — or keep an eye on it from your phone with the Remote Control dashboard
+
+## 🔗 More Edgenuity Resources
+- **Is Edgenuity down right now?** Live status for the Edgenuity login, classic player, EdgeX, Nova and videos, checked every minute → https://isedgenuitydown.com
+- **Best Edgenuity bots compared** – Revolt, Nexus, Exodus, Edgy Pro and Edgenuity Answers side by side, with prices → https://bestedgenuitybot.com
+- **Free answer search** – Edgenuity and EdgeX questions → https://revolt.ly/answers
 
 ## 🎥 Videos
 ### Main Tutorial
@@ -122,10 +126,10 @@ Step-by-step guides → https://docs.revolt.ly/docs/installation
 ## ❓ FAQ
 **Does Revolt work on EdgeX?** Yes — including the Nova player. See https://revolt.ly/edgex.
 **Can I run more than one class?** Yes, with Duplicate Tabs, or let Cloud Completion run classes for you.
-**Can I check on it from my phone?** Yes — with the RevoltX extension and a Revolt account, the Remote Control dashboard shows your tab live, and Discord DMs you your scores.
-**Does it work on Brightspace or FLVS?** Yes, with the RevoltX extension (1.0.71 or newer). Brightspace support is for TRECA Digital Academy (tda.brightspace.com) for now; on FLVS, sign in at vsa.flvs.net and open your course. Timed quizzes, retakes, teacher passwords, discussion-based assessments and work in outside tools (Google Docs, Clever) stay with you, and Cloud Completion doesn't cover these two platforms yet. Guides: https://revolt.ly/brightspace · https://revolt.ly/flvs
+**Can I check on it from my phone?** Yes — with a Revolt account, the Remote Control dashboard shows your tab live, and Discord DMs you your scores.
+**Does it work on Brightspace or FLVS?** Yes. Brightspace support is for TRECA Digital Academy (tda.brightspace.com) for now; on FLVS, sign in at vsa.flvs.net and open your course. Timed quizzes, retakes, teacher passwords, discussion-based assessments and work in outside tools (Google Docs, Clever) stay with you, and Cloud Completion doesn't cover these two platforms yet. Guides: https://revolt.ly/brightspace · https://revolt.ly/flvs
 **Does it do eNotes?** Yes — turn on Auto eNotes and it writes a short note after each video section on classic Edgenuity. Docs: https://docs.revolt.ly/docs/features/auto-enotes
-**Can I limit when it runs?** Yes — set Work Hours in the extension or userscript, or when ordering Cloud Completion. Docs: https://docs.revolt.ly/docs/features/work-hours
+**Can I limit when it runs?** Yes — set Work Hours in the Revolt script, or when ordering Cloud Completion. Docs: https://docs.revolt.ly/docs/features/work-hours
 **Is there a free trial?** Yes, a free 4-hour key — see above.
 
 ## ⚠️ Disclaimer
